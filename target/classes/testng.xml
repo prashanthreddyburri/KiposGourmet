@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Extent Reports for kipos POS" verbose="1" >
+  
+  
+  <listeners>
+  
+    <listener class-name="gourmet.qa.util.ExtentReporterNG"/>
+  
+  </listeners>
+  
+  
+     
+  <test name="Extent report screenshot" >
+  
+   
+    <classes>
+      
+      <class name="gourmet.qa.testcases.LandingPOSLoginPageTest"/>
+    
+    </classes>
+    
+ </test>
+</suite>
