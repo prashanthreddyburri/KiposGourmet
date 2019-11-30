@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Extent Reports for kipos POS" duration-ms="166743" started-at="2019-11-27T08:59:49Z" finished-at="2019-11-27T09:02:35Z">
+    <groups>
+      <group name="LandingPOSLoginPage">
+        <method signature="LandingPOSLoginPageTest.loginPageTitleTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="loginPageTitleTest" class="gourmet.qa.testcases.LandingPOSLoginPageTest"/>
+        <method signature="LandingPOSLoginPageTest.validateKiposLogoTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="validateKiposLogoTest" class="gourmet.qa.testcases.LandingPOSLoginPageTest"/>
+        <method signature="LandingPOSLoginPageTest.validateKiposPOSHeadingTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="validateKiposPOSHeadingTest" class="gourmet.qa.testcases.LandingPOSLoginPageTest"/>
+      </group> <!-- LandingPOSLoginPage -->
+    </groups>
+    <test name="Extent report screenshot" duration-ms="166743" started-at="2019-11-27T08:59:49Z" finished-at="2019-11-27T09:02:35Z">
+      <class name="gourmet.qa.testcases.LandingPOSLoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="setUp" is-config="true" duration-ms="23923" started-at="2019-11-27T14:29:49Z" finished-at="2019-11-27T14:30:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="loginPageTitleTest" duration-ms="22" started-at="2019-11-27T14:30:12Z" finished-at="2019-11-27T14:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="tearDown" is-config="true" duration-ms="625" started-at="2019-11-27T14:30:13Z" finished-at="2019-11-27T14:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="setUp" is-config="true" duration-ms="23425" started-at="2019-11-27T14:30:13Z" finished-at="2019-11-27T14:30:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateKiposLogoTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="validateKiposLogoTest" duration-ms="76" started-at="2019-11-27T14:30:37Z" finished-at="2019-11-27T14:30:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKiposLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="tearDown" is-config="true" duration-ms="604" started-at="2019-11-27T14:30:37Z" finished-at="2019-11-27T14:30:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="setUp" is-config="true" duration-ms="22058" started-at="2019-11-27T14:30:37Z" finished-at="2019-11-27T14:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateKiposPOSHeadingTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="validateKiposPOSHeadingTest" duration-ms="52" started-at="2019-11-27T14:30:59Z" finished-at="2019-11-27T14:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKiposPOSHeadingTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="tearDown" is-config="true" duration-ms="601" started-at="2019-11-27T14:30:59Z" finished-at="2019-11-27T14:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="setUp" is-config="true" duration-ms="22993" started-at="2019-11-27T14:31:00Z" finished-at="2019-11-27T14:31:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginEmailTxtboxTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="validateLoginEmailTxtboxTest" duration-ms="52" started-at="2019-11-27T14:31:23Z" finished-at="2019-11-27T14:31:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginEmailTxtboxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="tearDown" is-config="true" duration-ms="597" started-at="2019-11-27T14:31:23Z" finished-at="2019-11-27T14:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="setUp" is-config="true" duration-ms="24118" started-at="2019-11-27T14:31:24Z" finished-at="2019-11-27T14:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginPasswordTxtboxTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="validateLoginPasswordTxtboxTest" duration-ms="63" started-at="2019-11-27T14:31:48Z" finished-at="2019-11-27T14:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPasswordTxtboxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="tearDown" is-config="true" duration-ms="603" started-at="2019-11-27T14:31:48Z" finished-at="2019-11-27T14:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="setUp" is-config="true" duration-ms="20132" started-at="2019-11-27T14:31:48Z" finished-at="2019-11-27T14:32:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginBtnTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="validateLoginBtnTest" duration-ms="59" started-at="2019-11-27T14:32:09Z" finished-at="2019-11-27T14:32:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="tearDown" is-config="true" duration-ms="598" started-at="2019-11-27T14:32:09Z" finished-at="2019-11-27T14:32:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="setUp" is-config="true" duration-ms="25131" started-at="2019-11-27T14:32:09Z" finished-at="2019-11-27T14:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="loginTest" duration-ms="367" started-at="2019-11-27T14:32:34Z" finished-at="2019-11-27T14:32:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gourmet.qa.testcases.LandingPOSLoginPageTest@3532ec19]" name="tearDown" is-config="true" duration-ms="616" started-at="2019-11-27T14:32:35Z" finished-at="2019-11-27T14:32:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gourmet.qa.testcases.LandingPOSLoginPageTest -->
+    </test> <!-- Extent report screenshot -->
+  </suite> <!-- Extent Reports for kipos POS -->
+</testng-results>

@@ -1,0 +1,6 @@
+gourmet\qa\pages\LandingPOSLoginPage.class
+gourmet\qa\util\ExtentReporterNG.class
+gourmet\qa\pages\Atlassian555.class
+gourmet\qa\base\TestBase.class
+gourmet\qa\pages\KiposPOSOpenRegisterPage.class
+gourmet\qa\util\TestUtil.class
